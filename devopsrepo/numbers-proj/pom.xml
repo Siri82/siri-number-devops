@@ -5,8 +5,8 @@
   <artifactId>myproject</artifactId>
   <packaging>jar</packaging>
   <properties>
-    <maven.compiler.source>14</maven.compiler.source>
-    <maven.compiler.target>14</maven.compiler.target>
+    <maven.compiler.source>19</maven.compiler.source>
+    <maven.compiler.target>19</maven.compiler.target>
   </properties>
   <version>1.1-SNAPSHOT</version>
   <name>myproject</name>
